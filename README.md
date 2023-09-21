@@ -11,7 +11,6 @@ Creating a README.md file to explain how to run My Cyber Tech Solution's Fronten
   - [Contact](#contact)
   - [ScreenShort](#screenshort)
 
-
 # My React Project with Vite
 
 Welcome to my React project built with Vite! This README will guide you through the process of setting up and running the project on your local machine.
@@ -30,13 +29,13 @@ Before you begin, make sure you have the following software installed on your sy
 git clone <https://github.com/shafiuljony/cyberTech-frontend-screening-test.git>
 ```
 
-1. Navigate to the project's directory:
+2. Navigate to the project's directory:
 
 ```bash
 cd ./cyberTech-frontend-screening-test
 ```
 
-1. Install project dependencies:
+3. Install project dependencies:
 
 ```bash
 npm install
