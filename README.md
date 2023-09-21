@@ -1,5 +1,17 @@
 Creating a README.md file to explain how to run My Cyber Tech Solution's Frontend Intern Developer Screening Test React project.
 
+## Table of Contents
+
+- [My React Project with Vite](#my-react-project-with-vite)
+  - [Prerequisites](#prerequisites)
+  - [Getting Started](#getting-started)
+  - [Running the Development Server](#running-the-development-server)
+  - [Building for Production](#building-for-production)
+  - [Folder Structure](#folder-structure)
+  - [Contact](#contact)
+  - [ScreenShort](#screenshort)
+
+
 # My React Project with Vite
 
 Welcome to my React project built with Vite! This README will guide you through the process of setting up and running the project on your local machine.
@@ -68,7 +80,7 @@ If you have any questions or need further assistance, feel free to contact me:
 
  **Thanks for selecting me for Cyber Tech Solution's Frontend Intern Developer Screening Test!**
 
-## Mobile ScreenShort
+## ScreenShort
 
  ![mobile](./src/assets/screenshort/mobile.png)
  ![menubar](./src/assets/screenshort/withmenubarmobilemenu.png.png)
