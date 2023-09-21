@@ -14,21 +14,29 @@ Before you begin, make sure you have the following software installed on your sy
 
 1. Clone the repository to your local machine using Git:
 
-   git clone <https://github.com/shafiuljony/cyberTech-frontend-screening-test.git>
+```bash
+git clone <https://github.com/shafiuljony/cyberTech-frontend-screening-test.git>
+```
 
-2. Navigate to the project's directory:
+1. Navigate to the project's directory:
 
-   cd ./cyberTech-frontend-screening-test
+```bash
+cd ./cyberTech-frontend-screening-test
+```
 
-3. Install project dependencies:
+1. Install project dependencies:
 
-   npm install
+```bash
+npm install
+```
 
 ## Running the Development Server
 
 To start the development server and run your React project, use the following command:
 
+```bash
 npm run dev
+```
 
 This command will start the Vite development server and open my project in your default web browser. Any changes you make to the source code will automatically trigger hot-reloading.
 
@@ -53,12 +61,12 @@ Here's an overview of the project's folder structure:
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact the project maintainer:
+If you have any questions or need further assistance, feel free to contact me:
 
 - Name: Md. Shafiul Islam
 - Email: shafiuljony12@gmail
 
- **Thanks for selecting me for Cyber Tech Solution's Frontend Intern Developer Screening Test Happy coding!**
+ **Thanks for selecting me for Cyber Tech Solution's Frontend Intern Developer Screening Test!**
 
 ## Mobile ScreenShort
 
